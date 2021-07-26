@@ -1,0 +1,6 @@
+@inproceedings{vijay2021iccv,
+  title={STRIVE: Scene Text Replacement In Videos},
+  author={B.G, Vijay Kumar and Subramanian, Jeyasri  and Chordia, Varnith and Bart, Eugene and Fang, Shaobo and Guan, Kelly and Bala, Raja},
+  booktitle={International Conference on Computer Vision},
+  year={2021}
+}
