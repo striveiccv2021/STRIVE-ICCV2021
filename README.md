@@ -33,3 +33,5 @@ Refer to the preprocessing python file for each dataset type to get crop images 
 
 Data can be downloaded from [here](https://drive.google.com/drive/folders/1sCekCP3seKxBSGC2Uk9DiCywDWOjRCu-?usp=sharing) 
 
+Please contact jsubrama@parc.com for any data queries
+
